@@ -1,0 +1,15 @@
+C:\git\Catalogo\CatalogoPessoal\bin\Debug\net6.0\CatalogoPessoal.exe
+C:\git\Catalogo\CatalogoPessoal\bin\Debug\net6.0\CatalogoPessoal.deps.json
+C:\git\Catalogo\CatalogoPessoal\bin\Debug\net6.0\CatalogoPessoal.runtimeconfig.json
+C:\git\Catalogo\CatalogoPessoal\bin\Debug\net6.0\CatalogoPessoal.dll
+C:\git\Catalogo\CatalogoPessoal\bin\Debug\net6.0\ref\CatalogoPessoal.dll
+C:\git\Catalogo\CatalogoPessoal\bin\Debug\net6.0\CatalogoPessoal.pdb
+C:\git\Catalogo\CatalogoPessoal\obj\Debug\net6.0\CatalogoPessoal.csproj.AssemblyReference.cache
+C:\git\Catalogo\CatalogoPessoal\obj\Debug\net6.0\CatalogoPessoal.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Catalogo\CatalogoPessoal\obj\Debug\net6.0\CatalogoPessoal.AssemblyInfoInputs.cache
+C:\git\Catalogo\CatalogoPessoal\obj\Debug\net6.0\CatalogoPessoal.AssemblyInfo.cs
+C:\git\Catalogo\CatalogoPessoal\obj\Debug\net6.0\CatalogoPessoal.csproj.CoreCompileInputs.cache
+C:\git\Catalogo\CatalogoPessoal\obj\Debug\net6.0\CatalogoPessoal.dll
+C:\git\Catalogo\CatalogoPessoal\obj\Debug\net6.0\ref\CatalogoPessoal.dll
+C:\git\Catalogo\CatalogoPessoal\obj\Debug\net6.0\CatalogoPessoal.pdb
+C:\git\Catalogo\CatalogoPessoal\obj\Debug\net6.0\CatalogoPessoal.genruntimeconfig.cache
