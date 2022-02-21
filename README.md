@@ -4,8 +4,8 @@
 
 #### Projeto proposto original:
 No curso se solicitou a criação de um APP para Cadastro de séries em memória.
-Ainda no curso, o professor sugeriu alguns pontos de melhora do aplicativo, como realizar a adequação para que fosse possível realizar o cadastro de filmes.
-Também foi sugerido a solicitação para exclusão de um registro.
+Ainda no curso, o professor sugeriu alguns pontos de melhoria do aplicativo, como realizar a adequação para que fosse possível realizar o cadastro de filmes.
+Também foi sugerido a solicitação de confirmação para exclusão de um registro.
 
 ## Melhorias executadas
 
